@@ -49,7 +49,7 @@ pip3 install -r requirements.txt
 
 ## Deployment
 
-1. Create an account with the [Render](https://render.com/). 
+1. Create an account on [Render](https://render.com/). 
 2. Link GitHub repo with the host.
 3. Set up a PostgreSQL database with the host.
 4. Store the key-value pairs for our environment variables with our host.
